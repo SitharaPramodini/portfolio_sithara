@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio_sithara/static/css/main.a41af74b.css",
-    "main.js": "/portfolio_sithara/static/js/main.e2b7a515.js",
-    "static/media/resume.pdf": "/portfolio_sithara/static/media/resume.1bb8c05ff0170e2335ec.pdf",
+    "main.css": "/portfolio_sithara/static/css/main.339908f6.css",
+    "main.js": "/portfolio_sithara/static/js/main.88b20494.js",
+    "static/media/3.png": "/portfolio_sithara/static/media/3.615e9db6549e5170fd80.png",
+    "static/media/4.png": "/portfolio_sithara/static/media/4.cda5f3c02490a1658a70.png",
+    "static/media/2.png": "/portfolio_sithara/static/media/2.27fa5bb5b3509a871247.png",
+    "static/media/1.png": "/portfolio_sithara/static/media/1.beb77af6a49d5e1a4ac1.png",
     "static/media/home-bg.png": "/portfolio_sithara/static/media/home-bg.f5c3f449582c9e5bc88d.png",
+    "static/media/react.png": "/portfolio_sithara/static/media/react.81ed438b18e24116794d.png",
     "static/media/testimonials-bg.png": "/portfolio_sithara/static/media/testimonials-bg.9c71e95f061df9c74b35.png",
+    "static/media/node.png": "/portfolio_sithara/static/media/node.d6153fa85318a68d9bca.png",
+    "static/media/man.png": "/portfolio_sithara/static/media/man.ea87926e3ac4e99c7462.png",
     "static/media/some-facts-bg.png": "/portfolio_sithara/static/media/some-facts-bg.95edc6297071efa4c8f8.png",
+    "static/media/java.png": "/portfolio_sithara/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/c++.png": "/portfolio_sithara/static/media/c++.24a8f93854ab092f17a7.png",
+    "static/media/html.png": "/portfolio_sithara/static/media/html.94972f53c025a8fb7e2b.png",
+    "static/media/css.png": "/portfolio_sithara/static/media/css.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/portfolio_sithara/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/logo.png": "/portfolio_sithara/static/media/logo.951754dc4dec9ae1a0d8.png",
     "index.html": "/portfolio_sithara/index.html",
-    "main.a41af74b.css.map": "/portfolio_sithara/static/css/main.a41af74b.css.map",
-    "main.e2b7a515.js.map": "/portfolio_sithara/static/js/main.e2b7a515.js.map"
+    "main.339908f6.css.map": "/portfolio_sithara/static/css/main.339908f6.css.map",
+    "main.88b20494.js.map": "/portfolio_sithara/static/js/main.88b20494.js.map"
   },
   "entrypoints": [
-    "static/css/main.a41af74b.css",
-    "static/js/main.e2b7a515.js"
+    "static/css/main.339908f6.css",
+    "static/js/main.88b20494.js"
   ]
 }
