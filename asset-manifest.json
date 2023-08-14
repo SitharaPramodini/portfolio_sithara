@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio_sithara/static/css/main.a41af74b.css",
+    "main.js": "/portfolio_sithara/static/js/main.e2b7a515.js",
+    "static/media/resume.pdf": "/portfolio_sithara/static/media/resume.1bb8c05ff0170e2335ec.pdf",
+    "static/media/home-bg.png": "/portfolio_sithara/static/media/home-bg.f5c3f449582c9e5bc88d.png",
+    "static/media/testimonials-bg.png": "/portfolio_sithara/static/media/testimonials-bg.9c71e95f061df9c74b35.png",
+    "static/media/some-facts-bg.png": "/portfolio_sithara/static/media/some-facts-bg.95edc6297071efa4c8f8.png",
+    "static/media/logo.png": "/portfolio_sithara/static/media/logo.951754dc4dec9ae1a0d8.png",
+    "index.html": "/portfolio_sithara/index.html",
+    "main.a41af74b.css.map": "/portfolio_sithara/static/css/main.a41af74b.css.map",
+    "main.e2b7a515.js.map": "/portfolio_sithara/static/js/main.e2b7a515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41af74b.css",
+    "static/js/main.e2b7a515.js"
+  ]
+}
